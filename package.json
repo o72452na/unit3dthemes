@@ -1,0 +1,14 @@
+{
+  "name": "unit3dthemes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-synthetic": "node-sass -o synthetic.css synthetic.scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
