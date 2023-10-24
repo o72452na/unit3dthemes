@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-synthetic": "node-sass -o synthetic.css synthetic.scss"
+    "build-synthetic": "node-sass -o ./synthetic/ synthetic.scss"
   },
   "author": "",
   "license": "ISC",
